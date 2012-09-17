@@ -2,6 +2,7 @@
     "name": "tilelive-s3",
     "version": "0.1.2",
     "dependencies": {
+        "get": "~1.1.2",
         "knox": "0.0.x",
         "tilejson": "0.1.x"
     },
