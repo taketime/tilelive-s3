@@ -1,10 +1,10 @@
 {
     "name": "tilelive-s3",
-    "version": "0.2.0",
+    "version": "0.3.0-dev",
     "dependencies": {
-        "get": "~1.1.2",
+        "get": "~1.2.0",
         "knox": "0.0.x",
-        "tilejson": "0.2.x"
+        "agentkeepalive": "https://github.com/willwhite/agentkeepalive/tarball/timeout-dev"
     },
     "devDependencies": {
         "mocha": "*"
