@@ -4,6 +4,7 @@
     "dependencies": {
         "get": "~1.2.0",
         "knox": "0.0.x",
+        "queue-async": "0.0.x",
         "agentkeepalive": "https://github.com/willwhite/agentkeepalive/tarball/timeout-dev"
     },
     "devDependencies": {
